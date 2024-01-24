@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ProjectSekhar2Project
+  gitServerName: GitTest
+  gitUrl: https://github.com/y509522/ProjectSekhar2Project
+  gitUsername: y509522
+  gitBranch: main
